@@ -3,21 +3,21 @@ global.owner = [
   ""
 ]
 global.anitav4 = "𝐐𝐔𝐄𝐄𝐍_𝐀𝐍𝐈𝐓𝐀-𝐕𝟒"
-global.ownername = "David Cyril"
+global.ownername = "Alvin"
 global.packname = "𝐐𝐔𝐄𝐄𝐍_𝐀𝐍𝐈𝐓𝐀-𝐕𝟒"
-global.author = "𝐃𝐀𝐕𝐈𝐃 𝐂𝐘𝐑𝐈𝐋"
+global.author = "Alvin"
 global.channelname = "𝐃𝐀𝐕𝐈𝐃 𝐂𝐘𝐑𝐈𝐋"
 global.channeljid = "120363315231436175@newsletter"
 global.autoTyping = false;                //make true to enable auto typing
 global.autoRecord = false;                //make true to enable auto recording
 global.autoViewStatus = true;   // Set to true to automatically read statuses
-global.AUTOSTATUS_REACT = false;   // Set to true to automatically like statuses
-global.autoLikeEmoji = "💚";    // Default emoji for liking statuses
+global.AUTOSTATUS_REACT = true;   // Set to true to automatically like statuses
+global.autoLikeEmoji = "😈👀😁😂";    // Default emoji for liking statuses
 
 global.LEVELUP = false;
 
 
-global.ANTIVIEWONCE = false;
+global.ANTIVIEWONCE = true;
 
 global.roles = {
     1: "Novice",
@@ -30,14 +30,14 @@ global.roles = {
     25: "Legend",
 };
 
-global.sudoUsers = ["2349066528353@s.whatsapp.net", "2348129988915@s.whatsapp.net"]; // Add the JIDs of sudo users
+global.sudoUsers = ["", "254743624539@s.whatsapp.net"]; // Add the JIDs of sudo users
 
 
 
 global.public = true
 
 
-global.ANTIDELETE = false;  
+global.ANTIDELETE = true;  
 
 global.unavailable = true;     
 //to show your real presence  
@@ -60,13 +60,13 @@ global.antilink = false;
 
 global.antilinkkick = false;
 
-global.antilinkwarn = false;
+global.antilinkwarn = true;
 
 global.mess = {
     success: '𝙳𝚘𝚗𝚎',
     admin: '_*❗This Command Can Only Be Used By Group Admins !*_',
     botAdmin: '_*❗This Command Can Only Be Used When Bot Becomes Group Admin !*_',
-    OnlyOwner: '_*❗This Command Can Only Be Used By My Owner !*_',
+    OnlyOwner: '_*❗This Command Can Only Be Used By ALVIN!*_',
     OnlyGrup: '_*❗This Command Can Only Be Used In Group Chat !*_',
     private: '_(❗This Command Can Only Be Used In Private Chat !*_',
     wait: '_*Please Wait*_',
